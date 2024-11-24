@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeto\\SistemaCompras-v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6E902E-66F6-4644-88BF-C7114E4AD951}|SistemaCompra.Application\\SistemaCompra.Application.csproj|c:\\projeto\\sistemacompras-v3\\sistemacompra.application\\solicitacaocompra\\command\\registrarcompra\\registrarcompracommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6E902E-66F6-4644-88BF-C7114E4AD951}|SistemaCompra.Application\\SistemaCompra.Application.csproj|solutionrelative:sistemacompra.application\\solicitacaocompra\\command\\registrarcompra\\registrarcompracommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E978157-B508-4691-9D00-B902751C469A}|SistemaCompra.Domain\\SistemaCompra.Domain.csproj|c:\\projeto\\sistemacompras-v3\\sistemacompra.domain\\solicitacaocompraaggregate\\nomefornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E978157-B508-4691-9D00-B902751C469A}|SistemaCompra.Domain\\SistemaCompra.Domain.csproj|solutionrelative:sistemacompra.domain\\solicitacaocompraaggregate\\nomefornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6E902E-66F6-4644-88BF-C7114E4AD951}|SistemaCompra.Application\\SistemaCompra.Application.csproj|c:\\projeto\\sistemacompras-v3\\sistemacompra.application\\solicitacaocompra\\command\\registrarcompra\\registrarcompracommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6E902E-66F6-4644-88BF-C7114E4AD951}|SistemaCompra.Application\\SistemaCompra.Application.csproj|solutionrelative:sistemacompra.application\\solicitacaocompra\\command\\registrarcompra\\registrarcompracommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458CCDFA-47C2-4806-AF48-B110D29ADFF1}|SistemaCompra.API\\SistemaCompra.API.csproj|c:\\projeto\\sistemacompras-v3\\sistemacompra.api\\solicitacaocompra\\solicitacaocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458CCDFA-47C2-4806-AF48-B110D29ADFF1}|SistemaCompra.API\\SistemaCompra.API.csproj|solutionrelative:sistemacompra.api\\solicitacaocompra\\solicitacaocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NomeFornecedor.cs",
+              "DocumentMoniker": "C:\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\SolicitacaoCompraAggregate\\NomeFornecedor.cs",
+              "RelativeDocumentMoniker": "SistemaCompra.Domain\\SolicitacaoCompraAggregate\\NomeFornecedor.cs",
+              "ToolTip": "C:\\Projeto\\SistemaCompras-v3\\SistemaCompra.Domain\\SolicitacaoCompraAggregate\\NomeFornecedor.cs",
+              "RelativeToolTip": "SistemaCompra.Domain\\SolicitacaoCompraAggregate\\NomeFornecedor.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:33:47.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarCompraCommand.cs",
+              "DocumentMoniker": "C:\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SolicitacaoCompra\\Command\\RegistrarCompra\\RegistrarCompraCommand.cs",
+              "RelativeDocumentMoniker": "SistemaCompra.Application\\SolicitacaoCompra\\Command\\RegistrarCompra\\RegistrarCompraCommand.cs",
+              "ToolTip": "C:\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SolicitacaoCompra\\Command\\RegistrarCompra\\RegistrarCompraCommand.cs",
+              "RelativeToolTip": "SistemaCompra.Application\\SolicitacaoCompra\\Command\\RegistrarCompra\\RegistrarCompraCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:33:22.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarCompraCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SolicitacaoCompra\\Command\\RegistrarCompra\\RegistrarCompraCommandHandler.cs",
+              "RelativeDocumentMoniker": "SistemaCompra.Application\\SolicitacaoCompra\\Command\\RegistrarCompra\\RegistrarCompraCommandHandler.cs",
+              "ToolTip": "C:\\Projeto\\SistemaCompras-v3\\SistemaCompra.Application\\SolicitacaoCompra\\Command\\RegistrarCompra\\RegistrarCompraCommandHandler.cs",
+              "RelativeToolTip": "SistemaCompra.Application\\SolicitacaoCompra\\Command\\RegistrarCompra\\RegistrarCompraCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:28:56.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SolicitacaoCompraController.cs",
+              "DocumentMoniker": "C:\\Projeto\\SistemaCompras-v3\\SistemaCompra.API\\SolicitacaoCompra\\SolicitacaoCompraController.cs",
+              "RelativeDocumentMoniker": "SistemaCompra.API\\SolicitacaoCompra\\SolicitacaoCompraController.cs",
+              "ToolTip": "C:\\Projeto\\SistemaCompras-v3\\SistemaCompra.API\\SolicitacaoCompra\\SolicitacaoCompraController.cs",
+              "RelativeToolTip": "SistemaCompra.API\\SolicitacaoCompra\\SolicitacaoCompraController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:28:33.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
